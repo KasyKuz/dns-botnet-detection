@@ -12,6 +12,8 @@ beaconing_detector.py - Поиск периодических запросов (
 
 frequency_detector.py - Поиск частых запросов и серий подряд 
 
+Примеры команд для работы с каждым из инстурментов:
+
 1. Фильтрация белого списка
 ```
 python pcap_filter.py input.pcap filtered.pcap -w whitelist.txt
