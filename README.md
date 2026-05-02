@@ -3,9 +3,13 @@
 Инструментарий:
 
 pcap_filter.py - Фильтрация IP из белого списка
+
 ip_statistics.py - Статистика DNS-запросов по IP 
+
 detailed_report.py - Детальный отчет по указанным IP 
+
 beaconing_detector.py - Поиск периодических запросов (CV < порога) 
+
 frequency_detector.py - Поиск частых запросов и серий подряд 
 
 1. Фильтрация белого списка
